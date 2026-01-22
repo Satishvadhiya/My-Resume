@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 Satish Vadhiya  
-### Java Developer | Spring Boot | Backend Engineer  
+### Java Developer | Spring Boot | Backend Developer
 
 📍 Porbandar, Gujarat &nbsp; | &nbsp;
 📧 satish.vadhiya.dev@gmail.com &nbsp; | &nbsp;
